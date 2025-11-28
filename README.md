@@ -18,33 +18,40 @@ This repository is ideal for:
 
 # 📁 Repository Structure
 
-## 🟢 Beginner
-- Beginner - Select Statement.sql  
-- Beginner - Where Statement.sql  
-- Beginner - Limit and Aliasing.sql  
-- Beginner - Group By + Order By.sql  
-- Beginner - Having vs Where.sql  
-- Beginner - Parks_and_Rec_Create_db.sql  
 
-## 🟡 Intermediate
-- Intermediate - Joins.sql  
-- Intermediate - Subqueries.sql  
-- Intermediate - Unions.sql  
-- Intermediate - Case Statements.sql  
-- Intermediate - String Functions.sql  
-- Intermediate - Window Functions.sql  
+## 🟢 Beginner Level
+- [Beginner - Select Statement.sql](https://github.com/danushrajaram/SQL/blob/main/Beginner%20-%20Select%20Statement.sql)  
+- [Beginner - Where Statement.sql](https://github.com/danushrajaram/SQL/blob/main/Beginner%20-%20Where%20Statement.sql)  
+- [Beginner - Limit and Aliasing.sql](https://github.com/danushrajaram/SQL/blob/main/Beginner%20-%20Limit%20and%20Aliasing.sql)  
+- [Beginner - Group By + Order By.sql](https://github.com/danushrajaram/SQL/blob/main/Beginner%20-%20Group%20By%20%2B%20Order%20By.sql)  
+- [Beginner - Having vs Where.sql](https://github.com/danushrajaram/SQL/blob/main/Beginner%20-%20Having%20vs%20Where.sql)  
+- [Beginner - Parks_and_Rec_Create_db.sql](https://github.com/danushrajaram/SQL/blob/main/Beginner%20-%20Parks_and_Rec_Create_db.sql)  
 
-## 🔴 Advanced
-- Advanced - CTEs.sql  
-- Advanced - Temp Tables.sql  
-- Advanced - Stored Procedures.sql  
-- Advanced - Triggers and Events.sql  
+---
+
+## 🟡 Intermediate Level
+- [Intermediate - Joins.sql](https://github.com/danushrajaram/SQL/blob/main/Intermediate%20-%20Joins.sql)  
+- [Intermediate - Subqueries.sql](https://github.com/danushrajaram/SQL/blob/main/Intermediate%20-%20Subqueries.sql)  
+- [Intermediate - Unions.sql](https://github.com/danushrajaram/SQL/blob/main/Intermediate%20-%20Unions.sql)  
+- [Intermediate - Case Statements.sql](https://github.com/danushrajaram/SQL/blob/main/Intermediate%20-%20Case%20Statements.sql)  
+- [Intermediate - String Functions.sql](https://github.com/danushrajaram/SQL/blob/main/Intermediate%20-%20String%20Functions.sql)  
+- [Intermediate - Window Functions.sql](https://github.com/danushrajaram/SQL/blob/main/Intermediate%20-%20Window%20Functions.sql)  
+
+---
+
+## 🔴 Advanced Level
+- [Advanced - CTEs.sql](https://github.com/danushrajaram/SQL/blob/main/Advanced%20-%20CTEs.sql)  
+- [Advanced - Temp Tables.sql](https://github.com/danushrajaram/SQL/blob/main/Advanced%20-%20Temp%20Tables.sql)  
+- [Advanced - Stored Procedures.sql](https://github.com/danushrajaram/SQL/blob/main/Advanced%20-%20Stored%20Procedures.sql)  
+- [Advanced - Triggers and Events.sql](https://github.com/danushrajaram/SQL/blob/main/Advanced%20-%20Triggers%20and%20Events.sql)  
+
+---
 
 ## 🧪 Portfolio Projects
-- Portfolio Project - Data Cleaning.sql  
-- Portfolio Project - EDA.sql  
-- layoffs.csv  
-- SQL_tutorial.sql  
+- [Portfolio Project - Data Cleaning.sql](https://github.com/danushrajaram/SQL/blob/main/Portfolio%20Project%20-%20Data%20Cleaning.sql)  
+- [Portfolio Project - EDA.sql](https://github.com/danushrajaram/SQL/blob/main/Portfolio%20Project%20-%20EDA.sql)  
+- [SQL_tutorial.sql](https://github.com/danushrajaram/SQL/blob/main/SQL_tutorial.sql)  
+- [layoffs.csv](https://github.com/danushrajaram/SQL/blob/main/layoffs.csv)  
 
 ---
 
@@ -62,13 +69,9 @@ This repository is ideal for:
 
 ---
 
-# 🔗 Connect With Me
-
-**GitHub:**  
-https://github.com/danushrajaram
-
-**LinkedIn:**  
-https://linkedin.com/in/danushrajaram
+# 🔗 Connect With Me        
+[![GitHub](https://img.shields.io/badge/GitHub-danushrajaram-black?style=for-the-badge&logo=github)](https://github.com/danushrajaram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-danushrajaram-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/danushrajaram)
 
 
 <p align="center">
